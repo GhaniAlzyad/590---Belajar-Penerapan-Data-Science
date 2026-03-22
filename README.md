@@ -65,3 +65,5 @@ Berdasarkan temuan data, berikut adalah beberapa rekomendasi tindakan yang dapat
 3. Program Engagement untuk Karyawan Muda: Karena faktor Usia (Age) biasanya cukup berpengaruh (karyawan muda cenderung lebih sering berpindah kerja), buat program pengembangan karir atau mentorship yang jelas untuk meningkatkan loyalitas mereka.
 
 4. Fleksibilitas Kerja: Mempertimbangkan kebijakan Work From Anywhere (WFA) atau hybrid bagi karyawan yang jarak rumahnya jauh (Distance From Home tinggi) untuk mengurangi tingkat stres akibat perjalanan harian.
+
+LINK Dashboard : https://lookerstudio.google.com/reporting/504912ca-a85e-44e9-8cc0-d868ece4d3cc
